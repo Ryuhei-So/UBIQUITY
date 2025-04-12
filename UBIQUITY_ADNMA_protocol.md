@@ -26,23 +26,21 @@
 <!-- Advice-based / Counselling-base? -->
 ## 1. BACKGROUND {#background}
 
-Excessive drinking issues pose a significant global public health challenge, contributing to both physical and mental health disorders and resulting in substantial social and economic losses (WHO, 2019). Primary care  settings offer critical opportunities for early interventio (Reid 1999). Brief Interventions (BIs) of varying intensities have been developed to address these issues, yet their adoption in primary care practice is limited due to time constraints (Johnson, 2011 and Isted, 2015). 
+Hazardous drinking pose a global public health challenge, contributing to both physical and mental health disorders and resulting in substantial social and economic losses. (WHO, 2019) Because primary care settings, 4–29% of patients may engage in hazardous drinking, these settings can be an ideal place for early intervention. (Reid 1999) To make the most of this opportunity, researchers have developed several brief interventions (BIs), and showed their effectiveness in primary care settings. (Kaner 2018)
 
-//Kaner 2018に則りExcessive drinking = hazardous and harmful drinkingを用いる。
+However, typical BIs may not be brief enough to be feasible in busy clinical environments. BIs studied in primary care settings require a median duration of 25 minutes and can total up to 175 minutes. (Kaner 2018) These time constraints pose a major barrier to their implementation. (Johnson, 2011 and Isted, 2015) Ultra-Brief Interventions (UBIs), which can be conducted in a much shorter time, can be a more practical option for implementation in such settings.
 
-BIs range from Ultra-brief Interventions (UBI), lasting less than one minute, to Brief Advice (BA) and Brief Lifestyle Counseling (BLC), which can extend beyond 15 minutes. The simplicity of UBIs suggests they could be more feasible in busy clinical environments. 
+Two large pragmatic trials have shown varied results regarding UBI's effectiveness for hazardous drinking in primary care. The SIPS trial in the UK found no statistical difference between UBI and BIs in 5 minutes and in 20 minutes that were expected to be effective. (Kaner, 2014) Furthermore, a secondary analysis of SIPS trial suggests a high probability of no difference. (Dienes, 2018) However, the EASY study in Japan found no statistical difference between UBI and no additional intervention. (So, 2025)
 
-Two large pragmatic cluster RCTs have shown varied results regarding UBI's effectiveness for excessive drinking. The SIPS trial in the UK found no statistical difference between UBI and BA or BLC, suggesting a high probability of no difference, but did not compare UBI with no additional intervention. Conversely, the EASY study in Japan found no statistical difference between UBI and no additional intervention.
-
-// This raises two critical research questions: Is there a dose-response relationship between the intensity of BIs and their effectiveness on excessive drinking? And, are UBI effective compared to no additional intervention at all? To Address these questions, We will conduct systematic review and network meta-analysis (NMA) to comprehensively evaluate the relative effectiveness of different BI intensities, providing insights into their potential implementation in clinical practice.  
+<!-- This raises two critical research questions: Is there a dose-response relationship between the intensity of BIs and their effectiveness on hazardous drinking? And, are UBI effective compared to no additional intervention at all? To Address these questions, We will conduct systematic review and network meta-analysis (NMA) to comprehensively evaluate the relative effectiveness of different BI intensities, providing insights into their potential implementation in clinical practice. --> 
 
 ## 2. REVIEW QUESTION(S) {#review-questions}
 
 *   **Primary Research Question:**
-Is UBI for excessive drinking effective compared to no additional intervention at all? 
+Is UBI for hazardous drinking effective compared to no additional intervention at all? 
 
 *   **Secondary Research Questions:**
-Is there a dose-response relationship between the intensity of BIs and their effectiveness on excessive drinking? 
+Is there a dose-response relationship between the intensity of BIs and their effectiveness on hazardous drinking? 
 
 ## 3. METHODS {#methods}
 
@@ -60,7 +58,7 @@ Is there a dose-response relationship between the intensity of BIs and their eff
 
 #### 3.2.2. Participants {#participants}
 
-*   **Included:** Studies involving individuals identified as having excessive drinking (e.g., hazardous or harmful drinking, or alcohol use disorder as determined by screening tools) in primary care departments.
+*   **Included:** Studies involving individuals identified as having hazardous drinking (e.g., hazardous or harmful drinking, or alcohol use disorder as determined by screening tools) in primary care departments.
 
 *   **Excluded:** Studies that focus solely on individuals seeking treatment for alcohol use disorder or alcohol dependence, as well as studies that include individuals meeting the diagnostic criteria for alcohol use disorder or alcohol dependence.
 
@@ -72,9 +70,7 @@ Interventions will be categorized into the following levels of intensity:
 
 1.  **Ultra-Brief Intervention: UBI）**: UBI involves the provision of written information regarding alcohol consumption, risks, and resources. It may include minimal verbal feedback lasting less than five minutes, without any structured advice or counseling elements, and does not provide individual feedback beyond screening results.
 
-2.  **Brief Advice: BA**: BA is a concise, structured intervention lasting approximately 5-15 minutes that includes direct feedback about drinking and its risks. It may also provide simple suggestions for reducing alcohol consumption and offer materials such as leaflets, but does not include complex motivational interviewing techniques or detailed counseling.
-
-3.  **Brief Lifestyle Counseling: BLC**: BLC is a more intensive intervention lasting 15-45 minutes that utilizes motivational interviewing techniques or cognitive behavioral approaches. It includes a detailed assessment of drinking patterns, personalized feedback, goal setting, exploration of ambivalence and barriers to change, and is more interactive and patient-centered than simple advice, allowing for one additional session if needed.
+2.  **Brief Intervention: BI**: We defined BI in this NMA as a structured intervention lasting at leaset 5 minutes that includes direct feedback about drinking and its risks. Some BIs may be advice-based and other BIs may be counselling-based utilizes motivational interviewing techniques or cognitive behavioral approaches.
 
 > **Reference from Kaner 2018:** The following information serves as a reference. Conditions 1, 2, and 3 are categorized as control conditions, while conditions 4 and 5 are included under UBI.
 > 1. screening only; 
@@ -90,7 +86,7 @@ Interventions will be categorized into the following levels of intensity:
 #### 3.2.5. Outcomes {#outcomes}
 
 *   **Outcomes:**
-In alignment with the outcomes defined in Kaner 2018, we set the following measures to evaluate the effectiveness of interventions on excessive drinkking:
+In alignment with the outcomes defined in Kaner 2018, we set the following measures to evaluate the effectiveness of interventions on hazardous drinkking:
 
 *   **Primary Outcome:**
 1. Self-reported or other reports indicating the quantity of alcohol consumed (e.g., number of drinks per week).
@@ -148,7 +144,7 @@ The search strategy will follow the methodology reported in the Cochrane review 
 *   **Data Items:**
     *   **Study characteristics:** We will extract name of the study, author, year of publication, country, study site (single or multi-center), setting, study design (individual or cluster RCT, quasi-experimental study, etc.), analysis set (ITT or not), and funding source.
     *   **Participant characteristics:** We will extract mean age, noumber of women, baseline alcohol consumption, baseline severity of alcohol-related problems (AUDIT-C, AUDIT, etc.)
-    *   **Intervention/Comparator details:** We will extract specific contents of materials (if provided), Specific components of interventions, duration/time spent, number of sessions, provider type (physicians, nurser, etc.), theoretical basis (if stated). Assignment to the four categories (No Intervention, UBI, BA, BLC).
+    *   **Intervention/Comparator details:** We will extract specific contents of materials (if provided), Specific components of interventions, duration/time spent, number of sessions, provider type (physicians, nurser, etc.), theoretical basis (if stated). Assignment to the three categories (No Intervention, UBI, and BI).
     *   **Outcome data:** We will extract the number of participants randomized to each arm, the number of participants assessed, the number of analized, the mean, standard deviation, and follow-up timepoint for the outcomes. When only change from baseline to endpoint is reported for the outcomes, we will use it instead of endpoint mean.
     *   **Missing Data:** We will contact authors of included studies for missing data. If unavailable, statistical methods for estimation (e.g., calculating SD from standard error, confidence intervals, or p-values).
 
@@ -221,10 +217,7 @@ primary outcome using CINeMA.(Nikolakopoulou et al., 2020)
 
 ## 8. REFERENCES {#references}
 
-*   Hutton B, Salanti G, Caldwell DM, et al. The PRISMA extension statement for reporting of systematic reviews incorporating network meta-analyses of health care interventions: checklist and explanations. Ann Intern Med. 2015;162(11):777-784. doi:10.7326/M14-2385
-*   Rücker G, Krahn U, König J, Efthimiou O, Schwarzer G. netmeta: Network Meta-Analysis using Frequentist Methods. R package version 2.8-1. 2023. https://cran.r-project.org/package=netmeta
-*   Salanti G, Del Giovane C, Chaimani A, Caldwell DM, Higgins JP. Evaluating the quality of evidence from a network meta-analysis. PLoS One. 2014;9(7):e99682. Published 2014 Jul 3. doi:10.1371/journal.pone.0099682 (Basis for CINeMA)
-*   [Add other key references, e.g., RoB 2 guidance]
+*   [To be writen.]
 
 ## 9. AMENDMENTS {#amendments}
 
