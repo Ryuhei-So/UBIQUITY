@@ -8,8 +8,13 @@
     - `UBIQUITY_ADNMA.r`: ADNMA（Aggregate Data Network Meta-Analysis）の主要な実装コード。
     - `UBIQUITY_ADNMA_fixed.r`: 修正版ADNMAの実装コード。
     - `UBIQUITY_ADNMA_debug.r`: デバッグ用ADNMAコード。
+    - `generate_results.Rmd`: 分析結果を生成するためのR Markdownファイル。
+    - `render_to_reports.R`: `generate_results.Rmd`をレンダリングして`reports`ディレクトリにPDFを生成するスクリプト。
     - その他、分析結果のプロット（`.pdf`）やデータ（`.RData`）など。
 - `data/`: 分析に使用するデータセットが含まれます。
+- `reports/`: 分析結果のレポート（PDF）が生成されるディレクトリです。
+    - `generate_results.pdf`: `generate_results.Rmd`から生成されたPDFレポート。
+    - `generate_results_files/`: レポートに含まれる図表などのファイルが保存されるディレクトリ。
 - `documents/`: 研究提案書、プロトコル、計画書、ToDoリストなどのドキュメントが含まれます。
     - `UBIQUITY_ADNMA/`: ADNMA関連のドキュメント。
         - `UBIQUITY_ADNMA_proposal.md`: ADNMAの研究提案書。
@@ -40,5 +45,30 @@ source("analysis/UBIQUITY_ADNMA.r")
 # または修正版を使用
 source("analysis/UBIQUITY_ADNMA_fixed.r")
 ```
+
+### 分析結果レポートの生成
+
+分析結果のレポート（PDF）を生成するには、`analysis/` ディレクトリ内の `render_to_reports.R` スクリプトを使用します。
+
+```bash
+# analysis ディレクトリに移動してから実行する場合
+cd analysis
+Rscript render_to_reports.R
+
+# プロジェクトルートから実行する場合
+Rscript analysis/render_to_reports.R
+```
+
+または、直接 `rmarkdown::render` 関数を使用することもできます。
+
+```r
+# R コンソールから実行する場合
+rmarkdown::render("analysis/generate_results.Rmd", output_file = "reports/generate_results.pdf")
+
+# コマンドラインから実行する場合
+Rscript -e "rmarkdown::render('analysis/generate_results.Rmd', output_file = 'reports/generate_results.pdf')"
+```
+
+生成されたPDFレポートは `reports/generate_results.pdf` に保存されます。
 
 Rスクリプトの詳細な実行方法や、プロジェクトの詳細については `documents/` 内の各提案書やプロトコルを参照してください。

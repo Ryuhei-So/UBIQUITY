@@ -1,0 +1,13 @@
+stage,value,description
+identification_db,1500,"Records identified from database searching"
+identification_other,50,"Records identified from other sources (e.g., registries, references)"
+identification_total,1550,"Total records identified"
+duplicates_removed,350,"Duplicate records removed"
+records_screened,1200,"Records screened (title/abstract)"
+records_excluded_screening,1100,"Records excluded during screening"
+reports_retrieved,100,"Reports sought for retrieval"
+reports_not_retrieved,5,"Reports not retrieved"
+reports_assessed,95,"Reports assessed for eligibility (full-text)"
+reports_excluded_eligibility,75,"Reports excluded during eligibility assessment"
+studies_included_qualitative,20,"Studies included in qualitative synthesis (Systematic Review)"
+studies_included_quantitative,15,"Studies included in quantitative synthesis (Meta-Analysis)"

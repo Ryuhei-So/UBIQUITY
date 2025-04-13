@@ -1,0 +1,9 @@
+study_id,author,year,reason_for_exclusion
+ExcludedStudy1,AuthorE,2019,"Setting not primary care (Emergency Department)"
+ExcludedStudy2,AuthorF,2020,"Population focused solely on adolescents"
+ExcludedStudy3,AuthorG,2021,"Intervention did not meet criteria (e.g., intensive psychotherapy)"
+ExcludedStudy4,AuthorH,2022,"Outcome measure not relevant (e.g., alcohol-related hospital admissions only)"
+ExcludedStudy5,AuthorI,2023,"Study design not RCT (Observational study)"
+ExcludedStudy6,AuthorJ,2020,"Duplicate publication of an included study"
+ExcludedStudy7,AuthorK,2021,"Full text not available"
+ExcludedStudy8,AuthorL,2022,"Population included dependent drinkers seeking treatment"

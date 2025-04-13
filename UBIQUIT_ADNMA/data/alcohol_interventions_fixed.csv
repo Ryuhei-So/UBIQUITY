@@ -1,0 +1,22 @@
+study,treat1,treat2,n1,n2,mean1,mean2,sd1,sd2,setting
+Heather_1987,BLC,No Intervention,29,62,252.6,317.8,156.4,248.7,Primary care
+Wallace_1988,BLC,No Intervention,448,459,322.8,380.3,219,238,Primary care
+Romelsjö_1989,BA,No Intervention,36,36,-34.9,42.6,209.1,202.2,Primary care
+Richmond_1995,BA,No Intervention,70,66,310,276,241,267,Primary care
+Fleming_1997,BLC,PIL,337,366,138.8,179.8,126.8,129.6,Primary care
+Senft_1997,BLC,No Intervention,201,224,158,224,210.6,193.9,Primary care
+Ockene_1999,BA,No Intervention,248,233,-74.2,125.9,-43.5,127.9,Primary care
+Fleming_1999,BLC,PIL,78,67,120.6,193.1,89.9,152.5,Primary care
+Maisto_2001_BA,BA,No Intervention,74,85,204.8,216.7,208.2,239.2,Primary care
+Crawford_2004,BLC,PIL,174,189,477.6,664.8,580.8,872,Emergency department
+Lock_2006,BA,PIL,39,32,126.4,199.7,258.4,258.4,Primary care
+Soderstrom_2007,BLC,BA,250,247,57.5,60.5,187,123.4,Emergency department
+D'Onofrio_2008,BA,PIL,233,236,109.7,106.2,173.9,137.7,Emergency department
+Schaus_2009,BLC,PIL,95,114,71.9,114,63.5,91.3,College health clinic
+Fleming_2010,BLC,PIL,493,493,154.4,166.9,124,115.5,College health clinic
+D'Onofrio_2012,BA,PIL,592,148,141.8,165.7,194.7,213.7,Emergency department
+Kaner_2013,BLC,PIL,426,209,134.4,134.4,134.4,105.3,Primary care
+Watson_2013,BLC,BA,236,229,19.6,22.5,14.8,16.2,Primary care
+Drummond_2014,BLC,PIL,564,291,115,134.4,107.9,124.2,Emergency department
+Helstrom_2014,BLC,BA,68,71,187.1,201.8,233.7,258.2,Primary care
+So_2025,PIL,No Intervention,531,602,261.725,254.75,377.825,392.925,Primary care
